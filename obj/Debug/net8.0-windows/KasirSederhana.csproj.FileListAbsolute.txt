@@ -1,0 +1,17 @@
+D:\kelas 11\mk2\projek visual studio 1\Kasir\KasirSederhana\bin\Debug\net8.0-windows\KasirSederhana.exe
+D:\kelas 11\mk2\projek visual studio 1\Kasir\KasirSederhana\bin\Debug\net8.0-windows\KasirSederhana.deps.json
+D:\kelas 11\mk2\projek visual studio 1\Kasir\KasirSederhana\bin\Debug\net8.0-windows\KasirSederhana.runtimeconfig.json
+D:\kelas 11\mk2\projek visual studio 1\Kasir\KasirSederhana\bin\Debug\net8.0-windows\KasirSederhana.dll
+D:\kelas 11\mk2\projek visual studio 1\Kasir\KasirSederhana\bin\Debug\net8.0-windows\KasirSederhana.pdb
+D:\kelas 11\mk2\projek visual studio 1\Kasir\KasirSederhana\obj\Debug\net8.0-windows\KasirSederhana.Form1.resources
+D:\kelas 11\mk2\projek visual studio 1\Kasir\KasirSederhana\obj\Debug\net8.0-windows\KasirSederhana.csproj.GenerateResource.cache
+D:\kelas 11\mk2\projek visual studio 1\Kasir\KasirSederhana\obj\Debug\net8.0-windows\KasirSederhana.GeneratedMSBuildEditorConfig.editorconfig
+D:\kelas 11\mk2\projek visual studio 1\Kasir\KasirSederhana\obj\Debug\net8.0-windows\KasirSederhana.AssemblyInfoInputs.cache
+D:\kelas 11\mk2\projek visual studio 1\Kasir\KasirSederhana\obj\Debug\net8.0-windows\KasirSederhana.AssemblyInfo.cs
+D:\kelas 11\mk2\projek visual studio 1\Kasir\KasirSederhana\obj\Debug\net8.0-windows\KasirSederhana.csproj.CoreCompileInputs.cache
+D:\kelas 11\mk2\projek visual studio 1\Kasir\KasirSederhana\obj\Debug\net8.0-windows\KasirSederhana.dll
+D:\kelas 11\mk2\projek visual studio 1\Kasir\KasirSederhana\obj\Debug\net8.0-windows\refint\KasirSederhana.dll
+D:\kelas 11\mk2\projek visual studio 1\Kasir\KasirSederhana\obj\Debug\net8.0-windows\KasirSederhana.pdb
+D:\kelas 11\mk2\projek visual studio 1\Kasir\KasirSederhana\obj\Debug\net8.0-windows\KasirSederhana.genruntimeconfig.cache
+D:\kelas 11\mk2\projek visual studio 1\Kasir\KasirSederhana\obj\Debug\net8.0-windows\ref\KasirSederhana.dll
+D:\kelas 11\mk2\projek visual studio 1\Kasir\KasirSederhana\obj\Debug\net8.0-windows\KasirSederhana.Form2.resources
