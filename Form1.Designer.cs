@@ -47,6 +47,8 @@
             btnsebelumnya = new Button();
             btnproses = new Button();
             btntutup = new Button();
+            txtnamakasir = new Label();
+            tbnamakasir = new TextBox();
             gbmakanminum.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)nudminuman).BeginInit();
             ((System.ComponentModel.ISupportInitialize)nudmakanan).BeginInit();
@@ -236,12 +238,30 @@
             btntutup.UseVisualStyleBackColor = true;
             btntutup.Click += btntutup_Click;
             // 
+            // txtnamakasir
+            // 
+            txtnamakasir.AutoSize = true;
+            txtnamakasir.Location = new Point(297, 322);
+            txtnamakasir.Name = "txtnamakasir";
+            txtnamakasir.Size = new Size(67, 15);
+            txtnamakasir.TabIndex = 16;
+            txtnamakasir.Text = "Nama Kasir";
+            // 
+            // tbnamakasir
+            // 
+            tbnamakasir.Location = new Point(375, 319);
+            tbnamakasir.Name = "tbnamakasir";
+            tbnamakasir.Size = new Size(204, 23);
+            tbnamakasir.TabIndex = 17;
+            // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             BackColor = SystemColors.ActiveCaption;
             ClientSize = new Size(800, 450);
+            Controls.Add(tbnamakasir);
+            Controls.Add(txtnamakasir);
             Controls.Add(btntutup);
             Controls.Add(btnproses);
             Controls.Add(btnsebelumnya);
@@ -287,5 +307,7 @@
         private Button btntutup;
         private NumericUpDown nudminuman;
         private NumericUpDown nudmakanan;
+        private Label txtnamakasir;
+        private TextBox tbnamakasir;
     }
 }

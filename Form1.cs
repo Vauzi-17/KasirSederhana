@@ -103,13 +103,16 @@ namespace KasirSederhana
             string bayar = tbbayar.Text;           // uang bayar
             string kembali = tbkembali.Text;         // uang kembali
 
+            string nama_kasir = tbnamakasir.Text;
+
             string pesan =
                 "=== Struk Pesanan ===\n\n" +
                 "Makanan   : " + makanan + " x " + jumlahMakanan + " = Rp" + subMakanan + "\n" +
                 "Minuman   : " + minuman + " x " + jumlahMinuman + " = Rp" + subMinuman + "\n\n" +
                 "Total     : Rp" + total + "\n" +
                 "Bayar     : Rp" + bayar + "\n" +
-                "Kembali   : Rp" + kembali;
+                "Kembali   : Rp" + kembali + "\n" +
+                "Nama Kasir: " + nama_kasir;
 
             // Tampilkan MessageBox
             MessageBox.Show(pesan, "Struk Pembelian", MessageBoxButtons.OK, MessageBoxIcon.Information);
